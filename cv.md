@@ -58,3 +58,19 @@ I enjoy learning how websites are built and love experimenting with code to crea
 - Subjects include Mathematics and Computer Science  
 
 ---
+## 💼 Work Experience
+
+### Student Web Development Projects
+**Self-initiated | 2025 – Present**
+
+- Built a personal CV using Markdown, HTML, and CSS  
+- Used Git and GitHub for version control and collaboration  
+- Deployed projects using GitHub Pages  
+- Practiced structuring clean and readable code  
+
+---
+## 🌍 English Language
+
+- Proficiency: Upper-Intermediate (B2)  
+- Comfortable reading, writing, and understanding technical content in English  
+- Regularly practice through online resources, coding documentation, and projects  
