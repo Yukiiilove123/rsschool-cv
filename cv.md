@@ -36,3 +36,25 @@ I enjoy learning how websites are built and love experimenting with code to crea
 - Beginner Data Structures  
 
 ---
+
+## 🚀 Projects
+
+### Personality Quiz
+- Created a basic quiz using html, css and javascript during a summer program    
+- 🔗 [View Project](https://yukiiilove123.github.io/PersonalityQuiz_GWC/)
+
+---
+
+## 📁 Code Examples
+
+- 🔗 [GitHub Profile](https://github.com/Yukiiilove123)
+
+---
+
+## 🎓 Education
+
+**Homeschooling (IGCSE Curriculum)**  
+- Currently preparing for IGCSE examinations  
+- Subjects include Mathematics and Computer Science  
+
+---
